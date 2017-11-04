@@ -14,7 +14,7 @@ class HeroesViewController: UIViewController {
     @IBOutlet private weak var collectionView: UICollectionView!
     
     //MARK: Properties
-    private let attributes = Attribute.allAttributes()
+    private let attributes = Attribute.loadAttributes()
     
     //MARK: View LifeCycle
     override func viewDidLoad() {
@@ -72,8 +72,9 @@ extension HeroesViewController: UICollectionViewDelegate {
     //FIXME: To be removed later
     func collectionView(_ collectionView: UICollectionView, didHighlightItemAt indexPath: IndexPath) {
         let controller = HeroesDetailsViewController.instantiateViewController()
-        let attribute = attributes[indexPath.item]
-        controller.attributeString = attribute.name
+        let attribute = Attribute.allTypes[indexPath.item]
+        controller.attributeString = attribute.rawValue
+        controller.heroes = Hero.getHeroes(ofAttribute: attribute)
         navigationController?.pushViewController(controller, animated: true)
     }
     

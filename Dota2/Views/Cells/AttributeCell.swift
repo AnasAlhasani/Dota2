@@ -13,7 +13,7 @@ class AttributeCell: UICollectionViewCell {
     @IBOutlet private weak var attributeImageView: UIImageView!
     @IBOutlet private weak var attributeTitleLabel: UILabel!
     
-    var attribute: Attribute? {
+    var attribute: (image: UIImage, name: String)? {
         didSet{
             if let attribute = attribute {
                 attributeImageView.image = attribute.image

@@ -14,7 +14,7 @@ class HeroesDetailsViewController: UIViewController {
     @IBOutlet private weak var collectionView: UICollectionView!
     
     //MARK: Properties
-    private let heroes = Hero.allHeroes()
+    var heroes: [Hero] = []
     var attributeString: String!
     
     //MARK: View LifeCycle

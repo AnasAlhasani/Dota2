@@ -8,22 +8,21 @@
 
 import UIKit
 
-struct Attribute {
+enum Attribute: String {
     
-    let image: UIImage
-    let name: String
+    case strength = "Strength"
+    case agility = "Agility"
+    case intelligence = "Intelligence"
     
-    static func allAttributes() -> [Attribute] {
-        var attributes: [Attribute] = []
+    static let allTypes: [Attribute] = [.strength, .agility, .intelligence]
+    
+    static func loadAttributes() -> [(image: UIImage, name: String)] {
         
-        let strength = Attribute(image: #imageLiteral(resourceName: "Strength"), name: "Strength")
-        attributes.append(strength)
-        
-        let agility = Attribute(image: #imageLiteral(resourceName: "Agility"), name: "Agility")
-        attributes.append(agility)
-        
-        let intelligence = Attribute(image: #imageLiteral(resourceName: "Intelligence"), name: "Intelligence")
-        attributes.append(intelligence)
+        var attributes: [(image: UIImage, name: String)] = []
+
+        attributes.append((image: #imageLiteral(resourceName: "Strength"), name: Attribute.strength.rawValue))
+        attributes.append((image: #imageLiteral(resourceName: "Agility"), name: Attribute.agility.rawValue))
+        attributes.append((image: #imageLiteral(resourceName: "Intelligence"), name: Attribute.intelligence.rawValue))
         
         return attributes
     }

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
-   Heroes.plist
-   Dota2
-
-   Created by Anas Alhasani on 11/4/17.
-   Copyright (c) 2017 Anas Alhasani. All rights reserved.
--->
+ Heroes.plist
+ Dota2
+ 
+ Created by Anas Alhasani on 11/4/17.
+ Copyright (c) 2017 Anas Alhasani. All rights reserved.
+ -->
 <plist version="1.0">
     <array>
         <dict>
@@ -14,223 +14,595 @@
             <string>1</string>
             <key>Name</key>
             <string>Abaddon</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>2</string>
             <key>Name</key>
             <string>Alchemist</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>3</string>
             <key>Name</key>
             <string>Axe</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>4</string>
             <key>Name</key>
             <string>Beastmaster</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>5</string>
             <key>Name</key>
             <string>Brewmaster</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>6</string>
             <key>Name</key>
             <string>BirstleBack</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>7</string>
             <key>Name</key>
             <string>Centaur Warrunner</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>8</string>
             <key>Name</key>
             <string>Chaos knight</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>9</string>
             <key>Name</key>
             <string>Clockwerk</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>10</string>
             <key>Name</key>
             <string>Doom</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>1</string>
             <key>Name</key>
             <string>Abaddon</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>12</string>
             <key>Name</key>
             <string>Earth Spirit</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>13</string>
             <key>Name</key>
             <string>Earthshaker</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>14</string>
             <key>Name</key>
             <string>Elder Titan</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>15</string>
             <key>Name</key>
             <string>Husker</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>16</string>
             <key>Name</key>
             <string>Io</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>17</string>
             <key>Name</key>
             <string>Kunkka</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>18</string>
             <key>Name</key>
             <string>Legion Commander</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>19</string>
             <key>Name</key>
             <string>Lifestealer</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>20</string>
             <key>Name</key>
             <string>Lycan</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>21</string>
             <key>Name</key>
             <string>Magnus</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>22</string>
             <key>Name</key>
             <string>Knight Stalker</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>23</string>
             <key>Name</key>
             <string>Omniknight</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>24</string>
             <key>Name</key>
             <string>Phoenix</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>25</string>
             <key>Name</key>
             <string>Pudge</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>26</string>
             <key>Name</key>
             <string>Sand King</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>27</string>
             <key>Name</key>
             <string>Slardar</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>28</string>
             <key>Name</key>
             <string>Spirit Breaker</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>29</string>
             <key>Name</key>
             <string>Sven</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>30</string>
             <key>Name</key>
             <string>Tidehunter</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>31</string>
             <key>Name</key>
             <string>Timbersaw</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>32</string>
             <key>Name</key>
             <string>Tiny</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>33</string>
             <key>Name</key>
             <string>Treant Protector</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>34</string>
             <key>Name</key>
             <string>Tusk</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>35</string>
             <key>Name</key>
             <string>Pitlord</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>36</string>
             <key>Name</key>
             <string>Undying</string>
+            <key>Attribute</key>
+            <string>Strength</string>
         </dict>
         <dict>
             <key>Image</key>
             <string>37</string>
             <key>Name</key>
             <string>Wraith King</string>
+            <key>Attribute</key>
+            <string>Strength</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>38</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>39</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>40</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>41</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>42</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>43</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>44</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>45</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>46</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>47</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>48</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>49</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>50</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>51</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>52</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>53</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>54</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>55</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>56</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>57</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>58</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>59</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>60</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>61</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>62</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>63</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>64</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>65</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>66</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>67</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>68</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>69</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>70</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>71</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>72</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>73</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
+        </dict>
+        <dict>
+            <key>Image</key>
+            <string>74</string>
+            <key>Name</key>
+            <string>Anti Mage</string>
+            <key>Attribute</key>
+            <string>Agility</string>
         </dict>
     </array>
+    
+
 </plist>
 
