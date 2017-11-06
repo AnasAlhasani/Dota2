@@ -90,11 +90,11 @@
 		5D8A775A1FAE3A5D0067FDE6 /* Dota2 */ = {
 			isa = PBXGroup;
 			children = (
+				5D8A776D1FAE3BA60067FDE6 /* App Delegate */,
 				5D8A77711FAE3BDA0067FDE6 /* Models */,
 				5D8A77721FAE3BE50067FDE6 /* Views */,
-				5D8A77741FAE3BF30067FDE6 /* UIKit Extensions */,
-				5D8A776D1FAE3BA60067FDE6 /* App Delegate */,
 				5D8A776E1FAE3BAF0067FDE6 /* Controllers */,
+				5D8A77741FAE3BF30067FDE6 /* UIKit Extensions */,
 				5D8A77701FAE3BCF0067FDE6 /* Supporting Files */,
 			);
 			path = Dota2;
